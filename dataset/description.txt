@@ -1,0 +1,6 @@
+1 Maize
+2 Soybean
+3 Peanut
+4 Cotton
+5 Rice
+6 Potato
